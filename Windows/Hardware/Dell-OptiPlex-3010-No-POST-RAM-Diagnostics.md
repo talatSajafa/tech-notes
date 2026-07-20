@@ -119,20 +119,13 @@ Not every hardware problem requires replacing components.
 Careful observation, research, and systematic troubleshooting can often identify and resolve the issue using the existing hardware.
 
 ---
-## Technical Skills Demonstrated
+## What I Learned
 
-- Hardware diagnostics
-- System troubleshooting
-- Root cause analysis
-- Component inspection and reseating
-- Research using manufacturer documentation
-- Safe handling of computer hardware
+- Diagnostic LEDs can identify failing hardware before a system boots.
+- RAM should be inspected before assuming major hardware failure.
+- Manufacturer documentation is often the best troubleshooting resource.
 
 ---
-
-**Status:** Complete
-
-*Last Updated: July 2026*
 
 **Status:** Complete
 

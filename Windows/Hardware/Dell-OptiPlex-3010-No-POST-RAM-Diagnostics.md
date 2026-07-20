@@ -119,14 +119,15 @@ Not every hardware problem requires replacing components.
 Careful observation, research, and systematic troubleshooting can often identify and resolve the issue using the existing hardware.
 
 ---
-## Skills Demonstrated
+## Technical Skills Demonstrated
 
 - Hardware diagnostics
-- Technical research
 - System troubleshooting
-- Problem analysis
-- Safe hardware handling
-- Computer maintenance
+- Technical documentation
+- Root cause analysis
+- Hardware maintenance
+- Research using manufacturer documentation
+- Safe handling of computer components
 
 ---
 

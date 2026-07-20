@@ -160,3 +160,4 @@ Modern systems generally use **UEFI** with **GPT**, which offers better compatib
 Choosing the wrong partition style may prevent the system from booting correctly.
 
 ---
+*Last updated: 19 July 2026*

@@ -163,14 +163,13 @@ Choosing the wrong partition style may prevent the system from booting correctly
 ## Concepts Practiced
 
 - Creating reusable bootable USB drives
-- Using Ventoy for multi-boot installations
-- Disk partition management with DiskPart
-- Cleaning and recreating disk partitions
-- Windows installation and recovery
-- Understanding GPT and MBR partition styles
-- Understanding UEFI and Legacy BIOS boot modes
-- Safe disk management practices
-
+- Managing disk partitions with DiskPart
+- Preparing installation media for multiple operating systems
+- Selecting appropriate partition styles (GPT and MBR)
+- Understanding UEFI and Legacy BIOS compatibility
+- Troubleshooting operating system installation issues
+- Recovering storage devices after failed installations
+  
 ---
 
 **Status:** Complete

@@ -160,4 +160,19 @@ Modern systems generally use **UEFI** with **GPT**, which offers better compatib
 Choosing the wrong partition style may prevent the system from booting correctly.
 
 ---
-*Last updated: 19 July 2026*
+## Concepts Practiced
+
+- Creating reusable bootable USB drives
+- Using Ventoy for multi-boot installations
+- Disk partition management with DiskPart
+- Cleaning and recreating disk partitions
+- Windows installation and recovery
+- Understanding GPT and MBR partition styles
+- Understanding UEFI and Legacy BIOS boot modes
+- Safe disk management practices
+
+---
+
+**Status:** Complete
+
+*Last Updated: July 2026*

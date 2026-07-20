@@ -123,11 +123,10 @@ Careful observation, research, and systematic troubleshooting can often identify
 
 - Hardware diagnostics
 - System troubleshooting
-- Technical documentation
 - Root cause analysis
-- Hardware maintenance
+- Component inspection and reseating
 - Research using manufacturer documentation
-- Safe handling of computer components
+- Safe handling of computer hardware
 
 ---
 
